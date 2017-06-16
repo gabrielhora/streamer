@@ -1,0 +1,10 @@
+click==6.7
+Flask==0.12.2
+itsdangerous==0.24
+Jinja2==2.9.6
+MarkupSafe==1.0
+psycopg2==2.7.1
+pynt==0.8.1
+six==1.10.0
+ujson==1.35
+Werkzeug==0.12.2
